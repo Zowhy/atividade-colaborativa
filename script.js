@@ -6,3 +6,6 @@ function saudacao(nome) {
         document.getElementById("mensagem").textContent = mensagem;
     }
 }
+
+
+saudacao("Daniel");
